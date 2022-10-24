@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Marcos Vinicius!
 
 - 🔭 Hoje trabalho como QA Tester.
-- 🌱 Estudando Automatização.
+- 🌱 Estudando Automação.
 
 ## 
 
