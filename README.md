@@ -8,18 +8,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmarcos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-  ##
-  
-  <a> Tecnologias: </a>
-  <div style="display: inline_block">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Selenium" height="30" width="30" src="https://cdn.discordapp.com/attachments/953746474129321999/953748814827765760/Selenium_Logo.png">
-  <img align="center" alt="Junit" height="50" width="40" src="https://cdn.discordapp.com/attachments/953746474129321999/953752178714099814/874086-1.png">
-  <img align="center" alt="Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="SQLServer" height="35" width="40" src="https://cdn.discordapp.com/attachments/953746474129321999/953753031617441822/Microsoft-SQL-Server.png">
-</div>
-  
 ##
   
 <div> 
